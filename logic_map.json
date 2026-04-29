@@ -1,0 +1,5 @@
+{
+  "agent_type": "Autonomous Researcher",
+  "model_priority": ["Gemma-7B", "Gemini-Pro"],
+  "capabilities": ["Web-Search", "Data-Synthesis", "Report-Generation"]
+}
